@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import * as d3 from 'd3';
+import "./Simulator.css"
 
 const spacecraftData = [
   { name: 'Atlas V 551', mass: 579.31 }, // in kg
